@@ -1,1 +1,8 @@
-streamlit>=1.26.0
+pdfplumber
+scikit-learn
+numpy
+pandas
+streamlit
+joblib
+nltk
+python-dotenv
