@@ -87,7 +87,7 @@ pdf_based_chatbot/
 ## 🌐 Deployment
 
 The chatbot is deployed on **Streamlit Community Cloud**.
-👉 [Live Demo Link][(https://pdf-based-chatbot.streamlit.app)]
+👉 Live Demo Link : https://pdf-based-chatbot.streamlit.app
 
 ---
 
